@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/DeveloperArena.unity
+    guid: ca50d3a3aa8a0f0499c9f6e244a680a2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/WarehouseMap.unity
+    guid: 011467a0c1c2cb44492ad467b8fb2867
+  - enabled: 0
+    path: Assets/Scenes/PooldayMap.unity
+    guid: b85eebc28e80c864381c1dfb048c2977
+  - enabled: 0
+    path: Assets/Scenes/ItalyMap.unity
+    guid: 7641076a7f74cc4409efd26e7a9423f6
+  - enabled: 0
+    path: Assets/Scenes/AztecMap.unity
+    guid: ce2a882c9e9257b4fbbdd1c483b5fa80
+  - enabled: 0
+    path: Assets/Scenes/DesertMap.unity
+    guid: 66f5ad5002abc5a44b56c8a7bc9b4893
+  - enabled: 0
+    path: Assets/Scenes/IceWorldMap.unity
+    guid: f21fa41d428b92447971bf9351457b3b
+  m_configObjects: {}
